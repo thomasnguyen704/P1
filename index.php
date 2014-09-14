@@ -25,7 +25,7 @@
     <div class="col-md-4">
     	<div class="well">
             <p class="lead"> Project 2: Title</p>
-            <p>View: <a href="">link</a></p>
+            <p>View: <a href="http://p2.thomasnguyen.me/">link</a></p>
             <p>Github: <a href="https://github.com/thomasnguyen704/P2">link</a></p>
         </div>
 	</div>
@@ -33,7 +33,7 @@
     <div class="col-md-4">
     	<div class="well">
             <p class="lead"> Project 3: Title</p>
-            <p>View: <a href="#">link</a></p>
+            <p>View: <a href="http://p3.thomasnguyen.me/">link</a></p>
             <p>Github: <a href="https://github.com/thomasnguyen704/P3">link</a></p>
         </div>
 	</div>
@@ -41,7 +41,7 @@
     <div class="col-md-4">
     	<div class="well">
             <p class="lead"> Project 4: Title</p>
-            <p>View: <a href="#">link</a></p>
+            <p>View: <a href="http://p4.thomasnguyen.me/">link</a></p>
             <p>Github: <a href="https://github.com/thomasnguyen704/P4">link</a></p>
         </div>
 	</div>
