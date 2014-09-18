@@ -1,4 +1,9 @@
-# Project 1
+Project 1
+Thomas Nguyen
+Harvard Extension School
+Dynamic Web Applications
+Project 1 Site URL: p1.thomasnguyen.me
+
 
 Task
   Create a single page website using basic HTML and CSS with the following information:
