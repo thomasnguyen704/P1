@@ -1,6 +1,6 @@
 Project 1
 
-Thomas Nguyen
+<h2>Thomas Nguyen</h2>
 
 Harvard Extension School
 
@@ -9,7 +9,7 @@ Dynamic Web Applications
 Project 1 Site URL: p1.thomasnguyen.me
 
 
-Task
+<h2>Task</h2>
 
   Create a single page website using basic HTML and CSS with the following information:
 
@@ -21,9 +21,9 @@ Task
 
   Answer the following questions to help the teaching team get to know you:
 
+<br>
 
-
-In 2+ sentences describe who you are and what you do.
+<h2>In 2+ sentences describe who you are and what you do.</h2>
 
   Why are you taking this course?
 
