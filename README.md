@@ -1,6 +1,6 @@
-Project 1
+<h2>Project 1</h2>
 
-<h2>Thomas Nguyen</h2>
+Thomas Nguyen
 
 Harvard Extension School
 
